@@ -1,4 +1,3 @@
-#只需要demo即可，不需要其它py文件，其它文件是用作二次开发
 import onnxruntime as ort
 import numpy as np
 import cv2
