@@ -2,3 +2,4 @@ paddle2onnx
 PaddlePaddle
 onnxruntime
 paddleclas
+opencv-python
