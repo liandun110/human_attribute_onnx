@@ -35,6 +35,7 @@ https://gitcode.com/gh_mirrors/pa/Paddle2ONNX/overview?utm_source=highlight_word
 https://github.com/PaddlePaddle/PaddleClas
 
 算法一：APTM(ACM MM 2023): https://github.com/Shuyu-XJTU/APTM
+
 无onnx相关代码，有训练步骤
 
 算法二：Label2Label(ECCV2022)：https://github.com/Li-Wanhua/Label2Label
